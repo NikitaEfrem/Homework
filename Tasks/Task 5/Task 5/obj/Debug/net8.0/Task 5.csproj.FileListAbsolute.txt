@@ -1,5 +1,0 @@
-C:\Users\ahmad\OneDrive\Рабочий стол\Homework\Homework\Tasks\Task 5\Task 5\obj\Debug\net8.0\Task 5.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ahmad\OneDrive\Рабочий стол\Homework\Homework\Tasks\Task 5\Task 5\obj\Debug\net8.0\Task 5.AssemblyInfoInputs.cache
-C:\Users\ahmad\OneDrive\Рабочий стол\Homework\Homework\Tasks\Task 5\Task 5\obj\Debug\net8.0\Task 5.AssemblyInfo.cs
-C:\Users\ahmad\OneDrive\Рабочий стол\Homework\Homework\Tasks\Task 5\Task 5\obj\Debug\net8.0\Task 5.csproj.CoreCompileInputs.cache
-C:\Users\ahmad\OneDrive\Рабочий стол\Homework\Homework\Tasks\Task 5\Task 5\obj\Debug\net8.0\Task 5.sourcelink.json
