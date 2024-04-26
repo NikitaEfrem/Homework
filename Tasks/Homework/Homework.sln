@@ -13,7 +13,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tasks 4", "Tasks 4", "{22EF
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Midtermtest", "Midtermtest", "{2732F4E0-EAA7-41B1-8918-812AA5705828}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "middermtest", "middermtest\middermtest.csproj", "{63197E7A-446E-45DF-A93A-70EA7541AEDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "middermtest", "middermtest\middermtest.csproj", "{63197E7A-446E-45DF-A93A-70EA7541AEDF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
